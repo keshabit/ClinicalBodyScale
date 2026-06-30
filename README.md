@@ -1,22 +1,8 @@
 \# ClinicalBodyScale for Home Assistant
 
-
-
-\[!\[HACS](https://img.shields.io/badge/HACS-Custom-blue.svg)](https://hacs.xyz/)
-
-\[!\[Home Assistant](https://img.shields.io/badge/Home%20Assistant-2025.1%2B-blue.svg)](https://www.home-assistant.io/)
-
-\[!\[License](https://img.shields.io/github/license/<your-github-user>/ClinicalBodyScale)](LICENSE)
-
-
-
 ClinicalBodyScale is a vendor-independent body composition engine for Home Assistant.
 
-
-
 Unlike manufacturer-specific integrations, ClinicalBodyScale accepts weight and bioelectrical impedance measurements from any compatible scale and calculates clinically meaningful body composition metrics using validated algorithms such as OpenScale, Xiaomi, Sanitas, and Science mode.
-
-
 
 \## Features
 
