@@ -1,0 +1,11 @@
+{
+  "name": "ClinicalBodyScale",
+  "country": "ALL",
+  "homeassistant": "2025.1.0",
+  "render_readme": true,
+  "content_in_root": false,
+  "domains": [
+    "clinicalbodyscale"
+  ],
+  "iot_class": "local_polling"
+}
